@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packages": [
     {
-      "name": "wuji-ai-cli",
+      "name": "wuji-ai",
       "version": "0.1.0",
       "release": 1,
       "revision": 0,
@@ -14,7 +14,7 @@
       "tags": ["cli", "ai", "wuji"]
     },
     {
-      "name": "wuji-ai-cli",
+      "name": "wuji-ai",
       "version": "0.1.0",
       "release": 1,
       "revision": 0,
@@ -26,7 +26,7 @@
       "tags": ["cli", "ai", "wuji"]
     },
     {
-      "name": "wuji-ai-cli",
+      "name": "wuji-ai",
       "version": "0.1.0",
       "release": 1,
       "revision": 0,
@@ -38,7 +38,7 @@
       "tags": ["cli", "ai", "wuji"]
     },
     {
-      "name": "wuji-ai-cli",
+      "name": "wuji-ai",
       "version": "0.1.0",
       "release": 1,
       "revision": 0,

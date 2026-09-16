@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "packages": [
     {
-      "id": "wuji-ai-cli",
+      "id": "wuji-ai",
       "version": "0.1.0",
       "description": "Wuji CLI frontend (wuji-ai)",
       "tags": ["cli", "wuji", "ai"],
-      "indexName": "wuji-ai-cli",
+      "indexName": "wuji-ai",
       "source": {
         "type": "index",
-        "url": "https://raw.githubusercontent.com/Coditary/wuji-registry/main/wuji-ai-cli-index.json"
+        "url": "https://raw.githubusercontent.com/Coditary/wuji-registry/main/wuji-ai-index.json"
       }
     },
     {

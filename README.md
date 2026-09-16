@@ -6,7 +6,7 @@ ReqPack catalog for **Wuji** — driver plugins and CLI packages.
 
 `packages.json` lists:
 
-- **wuji-ai-cli** — CLI frontend (`.rqp` index in `wuji-ai-cli-index.json`)
+- **wuji-ai** — CLI frontend (`.rqp` index in `wuji-ai-index.json`)
 - **llama**, **echo**, **vllm**, **a1111**, **ffmpeg**, **raggo**, **gorag** — driver plugins from [wuji-driver](https://github.com/Coditary/wuji-driver)
 
 ## Install
@@ -14,15 +14,15 @@ ReqPack catalog for **Wuji** — driver plugins and CLI packages.
 ```bash
 # Via Wuji ReqPack plugin (package manager system "wuji")
 rqp install wuji llama
-rqp install wuji wuji-ai-cli
+rqp install wuji wuji-ai
 
-# Direct CLI package (once .rqp releases are published)
-rqp install wuji-ai-cli
+# Direct CLI package
+rqp install wuji-ai
 ```
 
-## Publishing wuji-ai-cli
+## Publishing wuji-ai
 
-Add platform entries to `wuji-ai-cli-index.json` (see [teez-cli-index.json](https://github.com/Coditary/teez-registry/blob/main/teez-cli-index.json) for format) pointing at GitHub release `.rqp` artifacts.
+Add platform entries to `wuji-ai-index.json` (see [teez-cli-index.json](https://github.com/Coditary/teez-registry/blob/main/teez-cli-index.json) for format) pointing at GitHub release `.rqp` artifacts.
 
 ## Related
 
