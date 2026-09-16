@@ -3,8 +3,12 @@
   "packages": [
     {
       "id": "wuji-ai",
-      "version": "0.1.2",
-      "tags": ["cli", "wuji", "ai"],
+      "version": "0.1.3",
+      "tags": [
+        "cli",
+        "wuji",
+        "ai"
+      ],
       "indexName": "wuji-ai",
       "source": {
         "type": "index",
@@ -15,7 +19,11 @@
       "id": "llama",
       "version": "0.1.0",
       "description": "llama.cpp / Ollama text generation driver",
-      "tags": ["driver", "text", "llama"],
+      "tags": [
+        "driver",
+        "text",
+        "llama"
+      ],
       "source": {
         "type": "driver",
         "repo": "https://github.com/Coditary/wuji-driver.git",
@@ -27,7 +35,11 @@
       "id": "echo",
       "version": "0.1.0",
       "description": "Echo text driver (no ML dependencies)",
-      "tags": ["driver", "text", "echo"],
+      "tags": [
+        "driver",
+        "text",
+        "echo"
+      ],
       "source": {
         "type": "driver",
         "repo": "https://github.com/Coditary/wuji-driver.git",
@@ -39,7 +51,11 @@
       "id": "vllm",
       "version": "0.1.0",
       "description": "vLLM text generation driver",
-      "tags": ["driver", "text", "vllm"],
+      "tags": [
+        "driver",
+        "text",
+        "vllm"
+      ],
       "source": {
         "type": "driver",
         "repo": "https://github.com/Coditary/wuji-driver.git",
@@ -51,7 +67,11 @@
       "id": "a1111",
       "version": "0.1.0",
       "description": "Automatic1111 Stable Diffusion image driver",
-      "tags": ["driver", "image", "a1111"],
+      "tags": [
+        "driver",
+        "image",
+        "a1111"
+      ],
       "source": {
         "type": "driver",
         "repo": "https://github.com/Coditary/wuji-driver.git",
@@ -63,7 +83,12 @@
       "id": "ffmpeg",
       "version": "0.1.0",
       "description": "FFmpeg audio/video driver",
-      "tags": ["driver", "audio", "video", "ffmpeg"],
+      "tags": [
+        "driver",
+        "audio",
+        "video",
+        "ffmpeg"
+      ],
       "source": {
         "type": "driver",
         "repo": "https://github.com/Coditary/wuji-driver.git",
@@ -75,7 +100,11 @@
       "id": "raggo",
       "version": "0.1.0",
       "description": "RAG driver (raggo backend)",
-      "tags": ["driver", "rag", "raggo"],
+      "tags": [
+        "driver",
+        "rag",
+        "raggo"
+      ],
       "source": {
         "type": "driver",
         "repo": "https://github.com/Coditary/wuji-driver.git",
@@ -87,7 +116,11 @@
       "id": "gorag",
       "version": "0.1.0",
       "description": "RAG driver (gorag backend)",
-      "tags": ["driver", "rag", "gorag"],
+      "tags": [
+        "driver",
+        "rag",
+        "gorag"
+      ],
       "source": {
         "type": "driver",
         "repo": "https://github.com/Coditary/wuji-driver.git",

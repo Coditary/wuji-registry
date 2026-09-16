@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "wuji-ai",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "release": 1,
       "revision": 0,
       "architecture": "aarch64",
@@ -11,8 +11,8 @@
         "linux"
       ],
       "summary": "Unified AI CLI",
-      "url": "https://github.com/Coditary/wuji-ai/releases/download/v0.1.2/wuji-0.1.2-linux-aarch64.rqp",
-      "packageSha256": "36dee3d3f9b831fa6b8cfb90c18599d3abb5401c04e2380a1289dd31769508e5",
+      "url": "https://github.com/Coditary/wuji-ai/releases/download/v0.1.3/wuji-0.1.3-linux-aarch64.rqp",
+      "packageSha256": "2dd4ec1cc613dede4e1ed2cd47af6515e3de372f4225c93826ce13b66340400b",
       "tags": [
         "cli",
         "ai",
@@ -21,7 +21,7 @@
     },
     {
       "name": "wuji-ai",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "release": 1,
       "revision": 0,
       "architecture": "x86_64",
@@ -29,8 +29,8 @@
         "linux"
       ],
       "summary": "Unified AI CLI",
-      "url": "https://github.com/Coditary/wuji-ai/releases/download/v0.1.2/wuji-0.1.2-linux-x86_64.rqp",
-      "packageSha256": "951ac915e38c339365ec908c96e9721822ddecbc2c6bca2fecfca464901187b2",
+      "url": "https://github.com/Coditary/wuji-ai/releases/download/v0.1.3/wuji-0.1.3-linux-x86_64.rqp",
+      "packageSha256": "51d48a521d5e45535ac371798f0e87fce29c8833b846f4fd3a2ef7c86f0c3678",
       "tags": [
         "cli",
         "ai",
@@ -39,7 +39,7 @@
     },
     {
       "name": "wuji-ai",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "release": 1,
       "revision": 0,
       "architecture": "aarch64",
@@ -47,8 +47,8 @@
         "macos"
       ],
       "summary": "Unified AI CLI",
-      "url": "https://github.com/Coditary/wuji-ai/releases/download/v0.1.2/wuji-0.1.2-macos-aarch64.rqp",
-      "packageSha256": "ccf62502bec842968ce36e039e8d33346eecae6eda2da721ea4579b6b3ad49ea",
+      "url": "https://github.com/Coditary/wuji-ai/releases/download/v0.1.3/wuji-0.1.3-macos-aarch64.rqp",
+      "packageSha256": "d745d7bafc045729511e4547de84e51b4c9ce5f8f9a167705c1519af43b34375",
       "tags": [
         "cli",
         "ai",
@@ -57,7 +57,7 @@
     },
     {
       "name": "wuji-ai",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "release": 1,
       "revision": 0,
       "architecture": "x86_64",
@@ -65,8 +65,8 @@
         "macos"
       ],
       "summary": "Unified AI CLI",
-      "url": "https://github.com/Coditary/wuji-ai/releases/download/v0.1.2/wuji-0.1.2-macos-x86_64.rqp",
-      "packageSha256": "e8772ddfb00196688a93e488b9ed7d429452edece981028aa42a9bf3d6a75deb",
+      "url": "https://github.com/Coditary/wuji-ai/releases/download/v0.1.3/wuji-0.1.3-macos-x86_64.rqp",
+      "packageSha256": "dd15d006f75892fd848853345d3b4e480ea1589772134883e168baf80ee1354c",
       "tags": [
         "cli",
         "ai",
