@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "packages": [
+    {
+      "id": "wuji-ai-cli",
+      "version": "0.1.0",
+      "description": "Wuji CLI frontend (wuji-ai)",
+      "tags": ["cli", "wuji", "ai"],
+      "indexName": "wuji-ai-cli",
+      "source": {
+        "type": "index",
+        "url": "https://raw.githubusercontent.com/Coditary/wuji-registry/main/wuji-ai-cli-index.json"
+      }
+    },
+    {
+      "id": "llama",
+      "version": "0.1.0",
+      "description": "llama.cpp / Ollama text generation driver",
+      "tags": ["driver", "text", "llama"],
+      "source": {
+        "type": "driver",
+        "repo": "https://github.com/Coditary/wuji-driver.git",
+        "ref": "main",
+        "path": "llama"
+      }
+    },
+    {
+      "id": "echo",
+      "version": "0.1.0",
+      "description": "Echo text driver (no ML dependencies)",
+      "tags": ["driver", "text", "echo"],
+      "source": {
+        "type": "driver",
+        "repo": "https://github.com/Coditary/wuji-driver.git",
+        "ref": "main",
+        "path": "echo"
+      }
+    },
+    {
+      "id": "vllm",
+      "version": "0.1.0",
+      "description": "vLLM text generation driver",
+      "tags": ["driver", "text", "vllm"],
+      "source": {
+        "type": "driver",
+        "repo": "https://github.com/Coditary/wuji-driver.git",
+        "ref": "main",
+        "path": "vllm"
+      }
+    },
+    {
+      "id": "a1111",
+      "version": "0.1.0",
+      "description": "Automatic1111 Stable Diffusion image driver",
+      "tags": ["driver", "image", "a1111"],
+      "source": {
+        "type": "driver",
+        "repo": "https://github.com/Coditary/wuji-driver.git",
+        "ref": "main",
+        "path": "a1111"
+      }
+    },
+    {
+      "id": "ffmpeg",
+      "version": "0.1.0",
+      "description": "FFmpeg audio/video driver",
+      "tags": ["driver", "audio", "video", "ffmpeg"],
+      "source": {
+        "type": "driver",
+        "repo": "https://github.com/Coditary/wuji-driver.git",
+        "ref": "main",
+        "path": "ffmpeg"
+      }
+    },
+    {
+      "id": "raggo",
+      "version": "0.1.0",
+      "description": "RAG driver (raggo backend)",
+      "tags": ["driver", "rag", "raggo"],
+      "source": {
+        "type": "driver",
+        "repo": "https://github.com/Coditary/wuji-driver.git",
+        "ref": "main",
+        "path": "raggo"
+      }
+    },
+    {
+      "id": "gorag",
+      "version": "0.1.0",
+      "description": "RAG driver (gorag backend)",
+      "tags": ["driver", "rag", "gorag"],
+      "source": {
+        "type": "driver",
+        "repo": "https://github.com/Coditary/wuji-driver.git",
+        "ref": "main",
+        "path": "gorag"
+      }
+    }
+  ]
+}
