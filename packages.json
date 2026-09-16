@@ -3,8 +3,7 @@
   "packages": [
     {
       "id": "wuji-ai",
-      "version": "0.1.0",
-      "description": "Wuji CLI frontend (wuji-ai)",
+      "version": "0.1.1",
       "tags": ["cli", "wuji", "ai"],
       "indexName": "wuji-ai",
       "source": {
